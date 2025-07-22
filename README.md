@@ -36,7 +36,7 @@ This Power BI report presents a detailed analysis of electricity sales across U.
 ## 👤 Author
 
 **Mohammed Haj Mustafa**  
-[LinkedIn Profile](https://www.[linkedin.com/in/your-profile](https://www.linkedin.com/posts/mostafa-mohamed-714632135)
+[LinkedIn Profile](https://www.linkedin.com/posts/mostafa-mohamed-714632135)
 
 GitHub: [@Mohd1969](https://github.com/Mohd1969)
 
