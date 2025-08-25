@@ -1,4 +1,4 @@
-# power-bi-electricity--Sales-Analysis-in-USA dashboard 
+# Power-BI-electricity--Sales-Analysis-in-USA dashboard 
 # ⚡ Electricity Sales Analysis in USA (2007)
 
 This Power BI report presents a detailed analysis of electricity sales across U.S. states and entities in 2007. The dashboard provides insights into total sales, revenue, pricing, and customer distribution using interactive visuals and KPIs.
