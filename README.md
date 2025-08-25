@@ -39,6 +39,7 @@ This Power BI report presents a detailed analysis of electricity sales across U.
 [LinkedIn Profile](https://www.linkedin.com/posts/mostafa-mohamed-714632135)
 
 GitHub: [@Mohd1969](https://github.com/Mohd1969)
+Power Bi Link : https://app.powerbi.com/links/ZvCvqD5C7j?ctid=8fcf4cd9-2fe4-4571-8431-b17c3f29efb3&pbi_source=linkShare
 
 ---
 
